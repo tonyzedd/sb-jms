@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spring.application.version",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.application.version'"
+  },
+  {
+    "name": "uk.me.tonyz.count",
+    "type": "java.lang.String",
+    "description": "A description for 'uk.me.tonyz.count'"
+  }
+]}

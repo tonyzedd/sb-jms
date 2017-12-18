@@ -7,19 +7,8 @@
  *  language in any way or for any other purpose whatsoever without the 
  *  prior written consent of Tony Z.
  ******************************************************************************/
-package uk.me.tonyz.sbjms;
+package uk.me.tonyz.sbjms.controller;
 
-import org.junit.Test;
-import org.junit.runner.RunWith;
-import org.springframework.boot.test.context.SpringBootTest;
-import org.springframework.test.context.junit4.SpringRunner;
-
-@RunWith(SpringRunner.class)
-@SpringBootTest
-public class SbJmsApplicationTests {
-
-	@Test
-	public void contextLoads() {
-	}
-
-}
+/**
+ *
+ */

@@ -1,0 +1,11 @@
+uk:
+  me:
+    tonyz:
+      count: "3"
+
+logging:
+  cf:
+   org: local-dev
+  pattern:
+    console:
+      "%d %-5p [%c] [%thread] org=${logging.cf.org} appName=${spring.application.name} version=${spring.application.version} %m%n"
